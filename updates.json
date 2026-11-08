@@ -1,5 +1,15 @@
 {
-  "releases" : [
-
+  "releases": [
+    {
+      "build": 1,
+      "date": "2026-11-08T20:40:19Z",
+      "length": 32665749,
+      "minimumSystem": "14.0",
+      "notes": "First release",
+      "sha256": "c14308f272f3e42d6f2b35654ba4a7a96071bd06e815cd885679c99842ea89e3",
+      "signature": "vMUJxSImQ5ci8utGMAKsyqXiSneAgZSgFbbF81fwlhL8StRAjw5k4EcqNLlNN+HXCAEIc7SfjWiakc5xVr60CA==",
+      "url": "https://quadricanna.github.io/canopy-updates/Gently-1.0.0.zip",
+      "version": "1.0.0"
+    }
   ]
 }
