@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "build": 2,
+      "date": "2026-11-09T04:22:36Z",
+      "length": 32723145,
+      "minimumSystem": "14.0",
+      "notes": "Licence keys that start GENTLY1- now work too. Big files and duplicates no longer moves something an app is using. Wiping records always keeps what's cooling off or turned off. Gently's own wording now says exactly what it reads and does.",
+      "sha256": "cf6705820650d353a56755d04c5a8e411fd2f8f7c116759a4534a240d27d00a6",
+      "signature": "9qI8q9tfYxVfJdG625ITmmGCLAMKZ9XKIVdTnic9dPFDsPqylZRzYXjEtXyypgT8wZki4UyBJOEXjD73J+2GBw==",
+      "url": "https://quadricanna.github.io/canopy-updates/Gently-1.0.1.zip",
+      "version": "1.0.1"
+    },
+    {
       "build": 1,
       "date": "2026-11-08T20:40:19Z",
       "length": 32665749,
