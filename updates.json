@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "build": 3,
+      "date": "2026-11-09T18:13:27Z",
+      "length": 32542368,
+      "minimumSystem": "14.0",
+      "notes": "Gently has no paid links any more: the Backup screen shows Time Machine, any backup app already on your Mac, and what you needn't back up.",
+      "sha256": "79e70b2dc1ba97ee29385df13c0bdb56601d84d70434f7e60c55317eadcd9d04",
+      "signature": "PI7FGBIuYHm/wcj8XMNjMDMt4l6DYOg9Pi87dX3FNvFHpL7VYVWavYL+Wc4g+nyMx8zyPO9NEpmP5IP2JYGPBQ==",
+      "url": "https://quadricanna.github.io/canopy-updates/Gently-1.0.2.zip",
+      "version": "1.0.2"
+    },
+    {
       "build": 2,
       "date": "2026-11-09T04:22:36Z",
       "length": 32723145,
@@ -10,17 +21,6 @@
       "signature": "9qI8q9tfYxVfJdG625ITmmGCLAMKZ9XKIVdTnic9dPFDsPqylZRzYXjEtXyypgT8wZki4UyBJOEXjD73J+2GBw==",
       "url": "https://quadricanna.github.io/canopy-updates/Gently-1.0.1.zip",
       "version": "1.0.1"
-    },
-    {
-      "build": 1,
-      "date": "2026-11-08T20:40:19Z",
-      "length": 32665749,
-      "minimumSystem": "14.0",
-      "notes": "First release",
-      "sha256": "c14308f272f3e42d6f2b35654ba4a7a96071bd06e815cd885679c99842ea89e3",
-      "signature": "vMUJxSImQ5ci8utGMAKsyqXiSneAgZSgFbbF81fwlhL8StRAjw5k4EcqNLlNN+HXCAEIc7SfjWiakc5xVr60CA==",
-      "url": "https://quadricanna.github.io/canopy-updates/Gently-1.0.0.zip",
-      "version": "1.0.0"
     }
   ]
 }
