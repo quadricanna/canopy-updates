@@ -1,26 +1,26 @@
 {
   "releases": [
     {
+      "build": 5,
+      "date": "2026-11-16T05:54:10Z",
+      "length": 33000026,
+      "minimumSystem": "14.0",
+      "notes": "A calmer new look: forest green in Light, matte in Dark, with fewer and shorter words everywhere. The tile beside the number shows what you've chosen to clear.",
+      "sha256": "4140c0673dc0c79c288dec5951ba224bae324f63dd3d0620356f7232c9657e95",
+      "signature": "K5He+2Eag+/nIhoMg/Zuqv/Tm1xCGCPbbeQkTBcOoo9lvg49CX4ImRDvZ30Gr494FbSnad0FgbBPrUvjHiB6Bw==",
+      "url": "https://quadricanna.github.io/canopy-updates/Gently-1.0.4.zip",
+      "version": "1.0.4"
+    },
+    {
       "build": 4,
       "date": "2026-11-16T02:30:05Z",
       "length": 32844529,
       "minimumSystem": "14.0",
-      "notes": "New: a short tour of the first screen, with a line on what each part does. Open it any time with the question mark at the top right, or Help › Show the Tour.",
+      "notes": "New: a short tour of the first screen, with a line on what each part does. Open it any time with the question mark at the top right, or Help \u203a Show the Tour.",
       "sha256": "4179a3a8d0d5124f156d3afa9a8cc2e85cc382bfb4bd1a5c414b8e5b149d2e0b",
       "signature": "rj2ivh+CNkMX2TfegzVn2Y8gUb4oPTYS8lIHjP3EIIU07OlgQFWnNlpi1VCcdAbOKrEtTlVMBtl14Y1IUKoMDw==",
       "url": "https://quadricanna.github.io/canopy-updates/Gently-1.0.3.zip",
       "version": "1.0.3"
-    },
-    {
-      "build": 3,
-      "date": "2026-11-09T18:13:27Z",
-      "length": 32542368,
-      "minimumSystem": "14.0",
-      "notes": "Gently has no paid links any more: the Backup screen shows Time Machine, any backup app already on your Mac, and what you needn't back up.",
-      "sha256": "79e70b2dc1ba97ee29385df13c0bdb56601d84d70434f7e60c55317eadcd9d04",
-      "signature": "PI7FGBIuYHm/wcj8XMNjMDMt4l6DYOg9Pi87dX3FNvFHpL7VYVWavYL+Wc4g+nyMx8zyPO9NEpmP5IP2JYGPBQ==",
-      "url": "https://quadricanna.github.io/canopy-updates/Gently-1.0.2.zip",
-      "version": "1.0.2"
     }
   ]
 }
