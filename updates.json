@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "build": 6,
+      "date": "2026-11-20T00:42:52Z",
+      "length": 32981465,
+      "minimumSystem": "14.0",
+      "notes": "A new layout: your places down a sidebar that folds away in a narrow window, and Overview in cards with its main button at the top. Light is matte now, like Dark, and the window can be smaller.",
+      "sha256": "0d07a60acfb722b6475658bbca5c36716797bed2f68e5b0aa9b1b381ae19e585",
+      "signature": "LBGKiRb+DzGnt3N5b99ZAN47oUdJgmPRuZpGJuMzYrTiLeoQ4a+TD/eBqUzcSM6K7XMM9ybgQjXiw38xGEM0Dw==",
+      "url": "https://quadricanna.github.io/canopy-updates/Gently-1.0.5.zip",
+      "version": "1.0.5"
+    },
+    {
       "build": 5,
       "date": "2026-11-16T05:54:10Z",
       "length": 33000026,
@@ -10,17 +21,6 @@
       "signature": "K5He+2Eag+/nIhoMg/Zuqv/Tm1xCGCPbbeQkTBcOoo9lvg49CX4ImRDvZ30Gr494FbSnad0FgbBPrUvjHiB6Bw==",
       "url": "https://quadricanna.github.io/canopy-updates/Gently-1.0.4.zip",
       "version": "1.0.4"
-    },
-    {
-      "build": 4,
-      "date": "2026-11-16T02:30:05Z",
-      "length": 32844529,
-      "minimumSystem": "14.0",
-      "notes": "New: a short tour of the first screen, with a line on what each part does. Open it any time with the question mark at the top right, or Help \u203a Show the Tour.",
-      "sha256": "4179a3a8d0d5124f156d3afa9a8cc2e85cc382bfb4bd1a5c414b8e5b149d2e0b",
-      "signature": "rj2ivh+CNkMX2TfegzVn2Y8gUb4oPTYS8lIHjP3EIIU07OlgQFWnNlpi1VCcdAbOKrEtTlVMBtl14Y1IUKoMDw==",
-      "url": "https://quadricanna.github.io/canopy-updates/Gently-1.0.3.zip",
-      "version": "1.0.3"
     }
   ]
 }
